@@ -1,6 +1,8 @@
 # Desafio-Erural
 
-virtuais.
+1. PROJETO
+
+Desenvolver um sistema de exibição de vídeos em salas virtuais.
 _________________________________________________________________________________________________________________________________________________________________________
 
 2. REQUISITOS
