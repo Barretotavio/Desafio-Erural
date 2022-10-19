@@ -1,0 +1,17 @@
+button {
+    all: unset;
+    cursor: pointer;
+    width: 126px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #e8efe2;
+    color: #237814;
+
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 14px;
+}
