@@ -1,0 +1,43 @@
+.container-sign-in {
+    min-height: 100vh;
+}
+
+.container-body {
+    min-height: 100vh;
+    padding-top: 104px;
+}
+
+.container-par-photos,
+.container-single-photo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-par-photos {
+    margin-top: 20px;
+}
+
+.foto1,
+.foto2,
+.foto3 {
+    padding: 12px 12px 4px;
+    border-radius: 25px;
+}
+
+
+.container-single-photo {
+    margin-top: 20px;
+}
+
+.foto3 {
+    padding-bottom: 40px;
+}
+
+.container-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 30px;
+}
